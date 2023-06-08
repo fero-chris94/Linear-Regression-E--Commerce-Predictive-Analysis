@@ -53,3 +53,4 @@ Joblib was instrumental in saving and loading the trained linear regression mode
 
 # Summary of Key Findings
 The findings indicate a weak correlation (less than 1%) between the yearly amount spent and time spent on the website. However, there is a moderate positive correlation (48%) between the yearly amount spent and time spent on the app. Based on these results, it is evident that the company should prioritize its app as it shows a stronger association with customer spending. Allocating resources and efforts towards improving the app experience can potentially yield higher profitability for the company.
+A full article on this can be accessed on my Medium Article [link](https://medium.com/@cereforokuma/maximizing-profitability-analyzing-app-vs-9aa87a08bf9b)
